@@ -1,0 +1,31 @@
+{
+    "users": {
+        "Usman": "c34d39bd4366113852cb438dae55ea8ec1b5d323e809f62604015cc7b13f62cd",
+        "usman farooq": "36de527b2add132c6ac2ecddb5b1a233a0ec0c0c1c78bc1ae896102bcaa10774"
+    },
+    "stored_data": {
+        "Usman": {
+            "encrypted_data": [
+                {
+                    "encrypted_text": "gAAAAABoI4Et8rRr__Ltc_X-SWFhUUktJDVSWdXDcmr-DVHvaeUZRdQz1v9ijA56o3GpnHmzUAfYZx4eK2aH1QurbAdDnaloT6g4EqhmdF8oJcgvpb6YFvI=",
+                    "encryption_key": "-Km9J684j2iySgR4EWFv4cYfw5nvy4Mw8xleiMGDGHk=",
+                    "passkey": "c34d39bd4366113852cb438dae55ea8ec1b5d323e809f62604015cc7b13f62cd"
+                },
+                {
+                    "encrypted_text": "gAAAAABoI4FYm1k9kHeUDeZgi2r3K0ofTHXWt4jhd6xC-DON9yQWDDDQ4fZste80wRhVqfnjO8dUW4qT8eHWESJCwFbHvNGVpA==",
+                    "encryption_key": "wb6uAVguOLb7FMHb71hlcUwbuomeMJI4cQFZngU39_s=",
+                    "passkey": "c34d39bd4366113852cb438dae55ea8ec1b5d323e809f62604015cc7b13f62cd"
+                }
+            ]
+        },
+        "usman farooq": {
+            "encrypted_data": [
+                {
+                    "encrypted_text": "gAAAAABoI4uLM6TzbXTrSNcBkUGPv7L1tglo_xKoKNLwf_q40QoWnDEJtIypuMSAuyjf12Hd7-rO4WcAvWAyD8Ja0-fH04Qaag==",
+                    "encryption_key": "wsrX6mAGV48ThWiGwoxNR9vDjJzLxvCcSh6LV_SaX7M=",
+                    "passkey": "3daabcc85cfd07e409fd5bcd3f4431584b331712c133ceb6f9f1c8b11f6c653a"
+                }
+            ]
+        }
+    }
+}
